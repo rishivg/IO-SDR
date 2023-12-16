@@ -1,0 +1,1185 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "AD9361BBCZ" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "U" (id 0) (at -20.3353 99.1345 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "AD9361BBCZ" (id 1) (at -20.356 -101.78 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "AD9361BBCZ:BGA144C80P12X12_1000X1000X170" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "Analog Devices" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "\nRF Agile Transceiver\n" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "CSPBGA -144 Analog Devices" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Price" "None" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Check_prices" "https://www.snapeda.com/parts/AD9361BBCZ/Analog+Devices/view-part/?ref=eda" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/AD9361BBCZ/Analog+Devices/view-part/?ref=snap" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "AD9361BBCZ" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=214533&manufacturer=Analog Devices&part_name=AD9361BBCZ&search_term=ad9361bbcz" (id 11) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Availability" "In Stock" (id 12) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "Analog Devices" (id 13) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "AD9361BBCZ_0_0"
+      (rectangle (start -20.32 -99.06) (end 20.32 99.06)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin input line (at -25.4 -43.18 0) (length 5.08)
+        (name "RX2A_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 -45.72 0) (length 5.08)
+        (name "RX2A_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "C2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "C7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "C8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "C9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "C10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "C11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "C12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "F3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "H2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "H3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "H6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "J2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "K2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "M4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -96.52 180.0) (length 5.08)
+        (name "VSSA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "M6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 -7.62 0) (length 5.08)
+        (name "TX_MON2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 -48.26 180.0) (length 5.08)
+        (name "TX2A_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 -50.8 180.0) (length 5.08)
+        (name "TX2A_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 -53.34 180.0) (length 5.08)
+        (name "TX2B_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 -55.88 180.0) (length 5.08)
+        (name "TX2B_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 86.36 180.0) (length 5.08)
+        (name "VDDA1P1_TX_VCO"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 0.0 0) (length 5.08)
+        (name "TX_EXT_LO_IN"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 22.86 180.0) (length 5.08)
+        (name "AUXDAC1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 35.56 180.0) (length 5.08)
+        (name "GPO_0"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 33.02 180.0) (length 5.08)
+        (name "GPO_1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 30.48 180.0) (length 5.08)
+        (name "GPO_2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 27.94 180.0) (length 5.08)
+        (name "GPO_3"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 96.52 180.0) (length 5.08)
+        (name "VDD_GPO"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 78.74 180.0) (length 5.08)
+        (name "VDDA1P3_TX_LO"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 73.66 180.0) (length 5.08)
+        (name "VDDA1P3_TX_VCO_LDO"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 0.0 180.0) (length 5.08)
+        (name "TX_VCO_LDO_OUT"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 -55.88 0) (length 5.08)
+        (name "RX2C_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "C1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 -53.34 0) (length 5.08)
+        (name "RX2C_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "D1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 20.32 180.0) (length 5.08)
+        (name "AUXDAC2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "C3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 35.56 0) (length 5.08)
+        (name "TEST/EN"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "C4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 -12.7 0) (length 5.08)
+        (name "CTRL_IN0"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "C5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 -15.24 0) (length 5.08)
+        (name "CTRL_IN1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "C6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 -17.78 0) (length 5.08)
+        (name "CTRL_IN2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "D6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 -20.32 0) (length 5.08)
+        (name "CTRL_IN3"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "D5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 63.5 180.0) (length 5.08)
+        (name "VDDA1P3_RX_RF"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "D2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 60.96 180.0) (length 5.08)
+        (name "VDDA1P3_RX_TX"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "D3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 -12.7 180.0) (length 5.08)
+        (name "CTRL_OUT0"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "D4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 -15.24 180.0) (length 5.08)
+        (name "CTRL_OUT1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "E4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 -17.78 180.0) (length 5.08)
+        (name "CTRL_OUT2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "E5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 -20.32 180.0) (length 5.08)
+        (name "CTRL_OUT3"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "E6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 -22.86 180.0) (length 5.08)
+        (name "CTRL_OUT4"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "F6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 -25.4 180.0) (length 5.08)
+        (name "CTRL_OUT5"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "F5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 -27.94 180.0) (length 5.08)
+        (name "CTRL_OUT6"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "F4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 -30.48 180.0) (length 5.08)
+        (name "CTRL_OUT7"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "G4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -25.4 -78.74 0) (length 5.08)
+        (name "P0_D7/TX_D3_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "D8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -25.4 -83.82 0) (length 5.08)
+        (name "P0_D9/TX_D4_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "D7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -25.4 -73.66 0) (length 5.08)
+        (name "P0_D5/TX_D2_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "D9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -25.4 -68.58 0) (length 5.08)
+        (name "P0_D3/TX_D1_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "D10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -25.4 -63.5 0) (length 5.08)
+        (name "P0_D1/TX_D0_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "D11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -93.98 180.0) (length 5.08)
+        (name "VSSD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "D12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -93.98 180.0) (length 5.08)
+        (name "VSSD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "F7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -93.98 180.0) (length 5.08)
+        (name "VSSD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "F9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -93.98 180.0) (length 5.08)
+        (name "VSSD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "F11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -93.98 180.0) (length 5.08)
+        (name "VSSD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "G12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -93.98 180.0) (length 5.08)
+        (name "VSSD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "H7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -93.98 180.0) (length 5.08)
+        (name "VSSD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "H10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -93.98 180.0) (length 5.08)
+        (name "VSSD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "K12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 -48.26 0) (length 5.08)
+        (name "RX2B_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "F1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 -50.8 0) (length 5.08)
+        (name "RX2B_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "E1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 76.2 180.0) (length 5.08)
+        (name "VDDA1P3_RX_LO"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "E2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 55.88 180.0) (length 5.08)
+        (name "VDDA1P3_TX_LO_BUFFER"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "E3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -25.4 -88.9 0) (length 5.08)
+        (name "P0_D11/TX_D5_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "E7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -25.4 -81.28 0) (length 5.08)
+        (name "P0_D8/TX_D4_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "E8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -25.4 -76.2 0) (length 5.08)
+        (name "P0_D6/TX_D3_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "E9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -25.4 -71.12 0) (length 5.08)
+        (name "P0_D4/TX_D2_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "E10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -25.4 -66.04 0) (length 5.08)
+        (name "P0_D2/TX_D1_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "E11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -25.4 -60.96 0) (length 5.08)
+        (name "P0_D0/TX_D0_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "E12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 71.12 180.0) (length 5.08)
+        (name "VDDA1P3_RX_VCO_LDO"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "F2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -25.4 -86.36 0) (length 5.08)
+        (name "P0_D10/TX_D5_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "F8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input clock (at -25.4 15.24 0) (length 5.08)
+        (name "FB_CLK_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "F10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input clock (at -25.4 12.7 0) (length 5.08)
+        (name "FB_CLK_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "G10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 93.98 180.0) (length 5.08)
+        (name "VDDD1P3_DIG"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "F12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 -2.54 0) (length 5.08)
+        (name "RX_EXT_LO_IN"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "G1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 -2.54 180.0) (length 5.08)
+        (name "RX_VCO_LDO_OUT"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "G2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 83.82 180.0) (length 5.08)
+        (name "VDDA1P1_RX_VCO"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "G3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 40.64 0) (length 5.08)
+        (name "EN_AGC"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "G5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 38.1 0) (length 5.08)
+        (name "ENABLE"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "G6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 5.08 0) (length 5.08)
+        (name "RX_FRAME_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "G7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 7.62 0) (length 5.08)
+        (name "RX_FRAME_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "G8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 5.08 180.0) (length 5.08)
+        (name "TX_FRAME_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "H9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 7.62 180.0) (length 5.08)
+        (name "TX_FRAME_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "G9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output clock (at 25.4 12.7 180.0) (length 5.08)
+        (name "DATA_CLK_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "H11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output clock (at 25.4 15.24 180.0) (length 5.08)
+        (name "DATA_CLK_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "G11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 -30.48 0) (length 5.08)
+        (name "RX1B_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "J1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 -33.02 0) (length 5.08)
+        (name "RX1B_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "H1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 43.18 0) (length 5.08)
+        (name "TXNRX"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "H4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 45.72 0) (length 5.08)
+        (name "SYNC_IN"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "H5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 -88.9 180.0) (length 5.08)
+        (name "P1_D11/RX_D5_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "H8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 91.44 180.0) (length 5.08)
+        (name "VDD_INTERFACE"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "H12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 66.04 180.0) (length 5.08)
+        (name "VDDA1P3_RX_SYNTH"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "J3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 50.8 0) (length 5.08)
+        (name "SPI_DI"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "J4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input clock (at -25.4 48.26 0) (length 5.08)
+        (name "SPI_CLK"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "J5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output clock (at 25.4 48.26 180.0) (length 5.08)
+        (name "CLK_OUT"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "J6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 -86.36 180.0) (length 5.08)
+        (name "P1_D10/RX_D5_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "J7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 -83.82 180.0) (length 5.08)
+        (name "P1_D9/RX_D4_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "J8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 -78.74 180.0) (length 5.08)
+        (name "P1_D7/RX_D3_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "J9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 -73.66 180.0) (length 5.08)
+        (name "P1_D5/RX_D2_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "J10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 -68.58 180.0) (length 5.08)
+        (name "P1_D3/RX_D1_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "J11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 -63.5 180.0) (length 5.08)
+        (name "P1_D1/RX_D0_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "J12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 -35.56 0) (length 5.08)
+        (name "RX1C_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 -38.1 0) (length 5.08)
+        (name "RX1C_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "K1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 68.58 180.0) (length 5.08)
+        (name "VDDA1P3_TX_SYNTH"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "K3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 58.42 180.0) (length 5.08)
+        (name "VDDA1P3_BB"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "K4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 55.88 0) (length 5.08)
+        (name "~{RESETB}"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "K5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 53.34 0) (length 5.08)
+        (name "~{SPI_ENB}"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "K6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 -81.28 180.0) (length 5.08)
+        (name "P1_D8/RX_D4_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "K7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 -76.2 180.0) (length 5.08)
+        (name "P1_D6/RX_D3_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "K8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 -71.12 180.0) (length 5.08)
+        (name "P1_D4/RX_D2_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "K9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 -66.04 180.0) (length 5.08)
+        (name "P1_D2/RX_D1_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "K10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 -60.96 180.0) (length 5.08)
+        (name "P1_D0/RX_D0_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "K11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 58.42 0) (length 5.08)
+        (name "RBIAS"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 22.86 0) (length 5.08)
+        (name "AUXADC"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 50.8 180.0) (length 5.08)
+        (name "SPI_DO"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "L6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 -25.4 0) (length 5.08)
+        (name "RX1A_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "M2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 -27.94 0) (length 5.08)
+        (name "RX1A_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "M1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 -5.08 0) (length 5.08)
+        (name "TX_MON1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "M5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 -35.56 180.0) (length 5.08)
+        (name "TX1A_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "M8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 -38.1 180.0) (length 5.08)
+        (name "TX1A_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "M7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 -40.64 180.0) (length 5.08)
+        (name "TX1B_N"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "M10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 25.4 -43.18 180.0) (length 5.08)
+        (name "TX1B_P"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "M9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 30.48 0) (length 5.08)
+        (name "XTALN"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "M12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 27.94 0) (length 5.08)
+        (name "XTALP"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "M11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
