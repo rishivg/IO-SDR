@@ -1,0 +1,232 @@
+{
+  "Header": {
+    "GenerationSoftware": {
+      "Vendor": "KiCad",
+      "Application": "Pcbnew",
+      "Version": "7.0.5"
+    },
+    "CreationDate": "2023-12-16T19:19:43-05:00"
+  },
+  "GeneralSpecs": {
+    "ProjectId": {
+      "Name": "IO-SDR_Rev_1.0",
+      "GUID": "494f2d53-4452-45f5-9265-765f312e302e",
+      "Revision": "rev?"
+    },
+    "Size": {
+      "X": 99.66,
+      "Y": 60.18
+    },
+    "LayerNumber": 8,
+    "BoardThickness": 1.6203,
+    "Finish": "ENIG"
+  },
+  "DesignRules": [
+    {
+      "Layers": "Outer",
+      "PadToPad": 0.1016,
+      "PadToTrack": 0.1016,
+      "TrackToTrack": 0.1016,
+      "MinLineWidth": 0.1016,
+      "TrackToRegion": 0.1524,
+      "RegionToRegion": 0.1524
+    },
+    {
+      "Layers": "Inner",
+      "PadToPad": 0.1016,
+      "PadToTrack": 0.1016,
+      "TrackToTrack": 0.1016,
+      "MinLineWidth": 0.113,
+      "TrackToRegion": 0.1016,
+      "RegionToRegion": 0.1016
+    }
+  ],
+  "FilesAttributes": [
+    {
+      "Path": "IO-SDR_Rev_1.0-Top_Cu.gbr",
+      "FileFunction": "Copper,L1,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "IO-SDR_Rev_1.0-In1_GND1_Cu.gbr",
+      "FileFunction": "Copper,L2,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "IO-SDR_Rev_1.0-In2_Sig1_Cu.gbr",
+      "FileFunction": "Copper,L3,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "IO-SDR_Rev_1.0-In3_PWR1_Cu.gbr",
+      "FileFunction": "Copper,L4,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "IO-SDR_Rev_1.0-In4PWR2_Cu.gbr",
+      "FileFunction": "Copper,L5,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "IO-SDR_Rev_1.0-In5_Sig2_Cu.gbr",
+      "FileFunction": "Copper,L6,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "IO-SDR_Rev_1.0-In6_GND2_Cu.gbr",
+      "FileFunction": "Copper,L7,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "IO-SDR_Rev_1.0-Bottom_Cu.gbr",
+      "FileFunction": "Copper,L8,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "IO-SDR_Rev_1.0-F_Silkscreen.gbr",
+      "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "IO-SDR_Rev_1.0-B_Silkscreen.gbr",
+      "FileFunction": "Legend,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "IO-SDR_Rev_1.0-Edge_Cuts.gbr",
+      "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    }
+  ],
+  "MaterialStackup": [
+    {
+      "Type": "Legend",
+      "Name": "Top Silk Screen"
+    },
+    {
+      "Type": "SolderPaste",
+      "Name": "Top Solder Paste"
+    },
+    {
+      "Type": "SolderMask",
+      "Thickness": 0.0102,
+      "Name": "Top Solder Mask"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.0351,
+      "Name": "Top.Cu"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.1163,
+      "Material": "FR4",
+      "Name": "Top.Cu/In1.GND1.Cu",
+      "Notes": "Type: dielectric layer 1 (from Top.Cu to In1.GND1.Cu)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.0152,
+      "Name": "In1.GND1.Cu"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.3,
+      "Material": "FR4",
+      "Name": "In1.GND1.Cu/In2_Sig1.Cu",
+      "Notes": "Type: dielectric layer 2 (from In1.GND1.Cu to In2_Sig1.Cu)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.0152,
+      "Name": "In2_Sig1.Cu"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.0765,
+      "Material": "FR4",
+      "Name": "In2_Sig1.Cu/In3_PWR1.Cu (1/2)",
+      "Notes": "Type: dielectric layer 3 - 1/2 (from In2_Sig1.Cu to In3_PWR1.Cu)"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.0765,
+      "Material": "FR4",
+      "Name": "In2_Sig1.Cu/In3_PWR1.Cu (2/2)",
+      "Notes": "Type: dielectric layer 3 - 2/2 (from In2_Sig1.Cu to In3_PWR1.Cu)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.0152,
+      "Name": "In3_PWR1.Cu"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.3,
+      "Material": "FR4",
+      "Name": "In3_PWR1.Cu/In4PWR2.Cu",
+      "Notes": "Type: dielectric layer 4 (from In3_PWR1.Cu to In4PWR2.Cu)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.0152,
+      "Name": "In4PWR2.Cu"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.0765,
+      "Material": "FR4",
+      "Name": "In4PWR2.Cu/In5_Sig2.Cu (1/2)",
+      "Notes": "Type: dielectric layer 5 - 1/2 (from In4PWR2.Cu to In5_Sig2.Cu)"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.0765,
+      "Material": "FR4",
+      "Name": "In4PWR2.Cu/In5_Sig2.Cu (2/2)",
+      "Notes": "Type: dielectric layer 5 - 2/2 (from In4PWR2.Cu to In5_Sig2.Cu)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.0152,
+      "Name": "In5_Sig2.Cu"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.3,
+      "Material": "FR4",
+      "Name": "In5_Sig2.Cu/In6_GND2.Cu",
+      "Notes": "Type: dielectric layer 6 (from In5_Sig2.Cu to In6_GND2.Cu)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.0152,
+      "Name": "In6_GND2.Cu"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.1163,
+      "Material": "FR4",
+      "Name": "In6_GND2.Cu/Bottom.Cu",
+      "Notes": "Type: dielectric layer 7 (from In6_GND2.Cu to Bottom.Cu)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.0351,
+      "Name": "Bottom.Cu"
+    },
+    {
+      "Type": "SolderMask",
+      "Thickness": 0.0102,
+      "Name": "Bottom Solder Mask"
+    },
+    {
+      "Type": "SolderPaste",
+      "Name": "Bottom Solder Paste"
+    },
+    {
+      "Type": "Legend",
+      "Name": "Bottom Silk Screen"
+    }
+  ]
+}

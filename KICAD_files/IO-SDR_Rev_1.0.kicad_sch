@@ -8,6 +8,20 @@
   )
 
 
+  (text "IO-SDR_Rev_1.0" (at 148.717 101.346 0)
+    (effects (font (face "Verdana") (size 10 10)) (justify left bottom))
+    (uuid 57116cac-fb5e-48bf-8f99-bee88b685055)
+  )
+  (text "2.0 Ideas" (at 20.066 218.44 0)
+    (effects (font (size 4 4)) (justify left bottom))
+    (uuid 977e870c-7fbb-417a-9ef4-75375cb26e37)
+  )
+  (text "- Camera Connector\n- Onboard sensors\n- Rounded Edges"
+    (at 17.145 242.57 0)
+    (effects (font (size 4 4)) (justify left bottom))
+    (uuid 9e3002ea-c7b1-4da7-84f3-22ba9576b77e)
+  )
+
   (sheet (at 208.407 121.539) (size 49.276 22.987)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
