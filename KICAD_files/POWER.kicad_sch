@@ -4769,8 +4769,8 @@
     (property "Datasheet" "~" (at 343.408 240.284 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0e1ba954-8d6b-4df1-85a8-5f5510bc2cfc))
-    (pin "2" (uuid f7115436-9391-424c-8914-8ec80d308845))
+    (pin "1" (uuid 2e2ca8ce-b6ce-4070-8bfb-f5be4c85bcc0))
+    (pin "2" (uuid 5fd367d2-5c42-4e81-b211-d288a4b03457))
     (instances
       (project "IO-SDR_Rev_1.0"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
@@ -5444,7 +5444,7 @@
     (property "Datasheet" "~" (at 380.619 239.014 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 41257978-21fa-42ee-8dc9-a4b4dcd1e112))
+    (pin "1" (uuid 8160c7de-c827-4b7b-a4d0-450c591150e6))
     (instances
       (project "IO-SDR_Rev_1.0"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/b3b43e8b-7f47-4b04-880b-01695a760090"
@@ -5469,7 +5469,7 @@
     (property "Datasheet" "~" (at 399.669 239.014 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 160ac96c-7f31-4d6d-a5cb-20f168252481))
+    (pin "1" (uuid 3bf68e64-7aca-4573-a5f6-a05b3d6b83f7))
     (instances
       (project "IO-SDR_Rev_1.0"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/b3b43e8b-7f47-4b04-880b-01695a760090"
@@ -5668,7 +5668,7 @@
     (property "Datasheet" "~" (at 335.153 244.094 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 83e8b3e0-3ba7-4aca-be32-409e2783a8ae))
+    (pin "1" (uuid f83b624b-7774-483f-8e74-b4f292b93a79))
     (instances
       (project "IO-SDR_Rev_1.0"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
@@ -6068,7 +6068,7 @@
     (property "Datasheet" "~" (at 399.669 244.094 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 008154b5-af87-4b72-9508-893d78717427))
+    (pin "1" (uuid 91bd7b4e-8c0b-47b7-8c09-ba3854ccc6cd))
     (instances
       (project "IO-SDR_Rev_1.0"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
@@ -6180,7 +6180,7 @@
     (property "Datasheet" "~" (at 371.094 244.094 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b42e3ea4-a809-4bea-b0e7-f33ed3a9989c))
+    (pin "1" (uuid bbfaef5a-0191-478f-aeab-8540b761efb4))
     (instances
       (project "IO-SDR_Rev_1.0"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
@@ -6236,8 +6236,8 @@
     (property "Datasheet" "~" (at 335.153 240.284 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8fc6c79f-9e34-47c7-9247-24127bb8f947))
-    (pin "2" (uuid aa869b3a-986b-4d32-994e-fc48c7b52fd7))
+    (pin "1" (uuid 33d08660-c452-403f-b9eb-1e6629b70ac3))
+    (pin "2" (uuid 10a06757-57dd-410e-ab92-5955cefc9afa))
     (instances
       (project "IO-SDR_Rev_1.0"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
@@ -6290,7 +6290,7 @@
     (property "Datasheet" "" (at 343.408 233.934 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 022a9a92-d690-4a54-965b-d681e57cc053))
+    (pin "1" (uuid 55d8274d-448d-4556-b880-5bbe2541bf76))
     (instances
       (project "IO-SDR_Rev_1.0"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
@@ -6432,7 +6432,7 @@
     (property "Datasheet" "~" (at 390.144 239.014 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 208dfa53-fab4-4915-80cc-8c762a4dc0e2))
+    (pin "1" (uuid ddea694c-89a8-4518-949f-a42dbea0fae6))
     (instances
       (project "IO-SDR_Rev_1.0"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/b3b43e8b-7f47-4b04-880b-01695a760090"
@@ -7504,7 +7504,7 @@
     (property "Datasheet" "~" (at 380.619 244.094 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 71a1fe3d-eca4-4acc-8de9-1d07c70c1ea9))
+    (pin "1" (uuid b0fbff0c-dc13-4685-975a-3b3fefe7b1e2))
     (instances
       (project "IO-SDR_Rev_1.0"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
@@ -7911,8 +7911,8 @@
     (property "Datasheet" "~" (at 326.898 240.284 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bc348243-4c0b-4124-a597-62b554ec5ed1))
-    (pin "2" (uuid bef52f90-db54-4cf6-858a-77c7233939ae))
+    (pin "1" (uuid f521104c-6a9c-450f-ab8b-4819c289e91a))
+    (pin "2" (uuid d3a5681f-a7d2-4c5b-b99a-a008b2f39840))
     (instances
       (project "IO-SDR_Rev_1.0"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
@@ -8240,7 +8240,7 @@
     (property "Datasheet" "~" (at 318.643 244.094 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f2408df8-40b5-4716-b531-c2332d0d9d25))
+    (pin "1" (uuid 8a8998f4-a5ad-4645-8286-1d4ea1f8cc7b))
     (instances
       (project "IO-SDR_Rev_1.0"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
@@ -8615,8 +8615,8 @@
     (property "Datasheet" "~" (at 318.643 240.284 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 33531279-0ae5-4177-8eb6-a10cf7cf9845))
-    (pin "2" (uuid 7ace19d4-ce45-4376-b963-db8a3b53eb69))
+    (pin "1" (uuid cdff00e7-8a3e-4b1c-bec6-a28c3af1cd5e))
+    (pin "2" (uuid 4079a2f9-a7e5-4038-a62e-2b148917b397))
     (instances
       (project "IO-SDR_Rev_1.0"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
@@ -9587,7 +9587,7 @@
     (property "Datasheet" "~" (at 343.408 244.094 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6dd82709-f2a0-4fae-8054-992e1803a7d2))
+    (pin "1" (uuid 9cb67c6f-d5fb-4a7b-b0fb-81c5cbb53937))
     (instances
       (project "IO-SDR_Rev_1.0"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
@@ -9759,7 +9759,7 @@
     (property "Datasheet" "~" (at 390.144 244.094 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 479f4350-35f9-4a13-ad13-10bb97f5e8ab))
+    (pin "1" (uuid e1c68b85-e347-4c29-9b54-f83e824f661c))
     (instances
       (project "IO-SDR_Rev_1.0"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
@@ -10067,7 +10067,7 @@
     (property "Datasheet" "~" (at 326.898 244.094 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ebbf8bd4-cd7f-4f9b-b92c-7eaf3bc8e554))
+    (pin "1" (uuid 86b2b755-91b0-4dae-aca1-9f9893d5793c))
     (instances
       (project "IO-SDR_Rev_1.0"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
@@ -10095,7 +10095,7 @@
     (property "Datasheet" "~" (at 371.094 239.014 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ea769cfd-8884-4689-9369-0d160b016a41))
+    (pin "1" (uuid 1d03a1e9-f9f4-411b-9f74-05828c7f5c4f))
     (instances
       (project "IO-SDR_Rev_1.0"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/b3b43e8b-7f47-4b04-880b-01695a760090"
