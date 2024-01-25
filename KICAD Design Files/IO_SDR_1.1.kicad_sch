@@ -1,0 +1,82 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 38786148-0fd1-46d3-8412-9a7876291ebf)
+
+  (paper "A3")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 208.407 121.539) (size 49.276 22.987)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 26408935-5483-4e64-b037-b34c2a58be86)
+    (property "Sheetname" "Sheet3" (at 208.28 121.158 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Sheet3.kicad_sch" (at 208.407 146.2536 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "[rishivg] PLUTOX_SDR-V1.0"
+        (path "/38786148-0fd1-46d3-8412-9a7876291ebf" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 267.97 121.285) (size 49.403 22.987) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 643e53b8-38bd-42e3-86de-6cc8c6c09224)
+    (property "Sheetname" "Sheet4" (at 267.97 120.5734 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Sheet4.kicad_sch" (at 267.97 144.8566 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "[rishivg] PLUTOX_SDR-V1.0"
+        (path "/38786148-0fd1-46d3-8412-9a7876291ebf" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 149.352 121.158) (size 48.006 24.511)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 8ac59cf2-de82-424f-b7a5-0f81b1511fd9)
+    (property "Sheetname" "Sheet2" (at 149.352 120.777 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Sheet2.kicad_sch" (at 149.479 146.558 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "[rishivg] PLUTOX_SDR-V1.0"
+        (path "/38786148-0fd1-46d3-8412-9a7876291ebf" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 91.186 121.539) (size 47.752 24.257) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid b3b43e8b-7f47-4b04-880b-01695a760090)
+    (property "Sheetname" "Sheet1" (at 91.186 120.8274 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Sheet1.kicad_sch" (at 91.186 146.3806 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "[rishivg] PLUTOX_SDR-V1.0"
+        (path "/38786148-0fd1-46d3-8412-9a7876291ebf" (page "1"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
