@@ -6185,6 +6185,11 @@
       (solder_mask_margin 0.102) (tstamp cc612bb8-d911-4519-ae73-d910fe3d2661))
     (pad "6" smd rect (at -1.27 1.5875 180) (size 1.651 0.762) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 424 "Net-(C83-Pad2)") (pintype "passive") (solder_mask_margin 0.102) (tstamp 08c7d3f1-a4e7-4b28-8253-12038a9018b4))
+    (model "${IO_LIB}/TCM1-63AX+--3DModel-STEP-56544.STEP"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
@@ -6957,6 +6962,11 @@
       (net 388 "Net-(U21-XIN32)") (pinfunction "XIN32") (pintype "input") (solder_mask_margin 0.102) (tstamp 23d4529d-252a-4bf0-916b-4402d80ca775))
     (pad "28" smd rect (at -1.75 -1.5625 90) (size 0.675 0.25) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 75 "+3V3") (pinfunction "VDDIO") (pintype "power_in") (solder_mask_margin 0.102) (tstamp 34c1a1a5-9b4c-4584-a37c-180c5bb86e88))
+    (model "${IO_LIB}/BNO085--3DModel-STEP-510211.STEP"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 180))
+    )
   )
 
   (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" (layer "F.Cu")
@@ -12307,6 +12317,11 @@
       (solder_mask_margin 0.102) (tstamp 7e6bcca3-e70e-4a97-af20-b685b3acce1d))
     (pad "6" smd rect (at -1.27 1.5875 270) (size 1.651 0.762) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 425 "Net-(C82-Pad2)") (pintype "passive") (solder_mask_margin 0.102) (tstamp 2e5d3ffa-ea2b-4245-b968-b06e00f551be))
+    (model "${IO_LIB}/TCM1-63AX+--3DModel-STEP-56544.STEP"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" (layer "F.Cu")
@@ -17130,6 +17145,11 @@
       (solder_mask_margin 0.102) (tstamp f3526863-522f-427e-85e6-9b5af2bfc2b5))
     (pad "6" smd rect (at -1.27 1.5875 270) (size 1.651 0.762) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 286 "Net-(C85-Pad2)") (pintype "passive") (solder_mask_margin 0.102) (tstamp b716bb3b-313c-4316-8b64-852e8a1546f4))
+    (model "${IO_LIB}/TCM1-63AX+--3DModel-STEP-56544.STEP"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 180))
+    )
   )
 
   (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" (layer "F.Cu")
@@ -21441,6 +21461,11 @@
       (solder_mask_margin 0.102) (tstamp 8d472844-3713-4047-a17e-1fc054ce2039))
     (pad "6" smd rect (at -1.27 1.5875 180) (size 1.651 0.762) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 33 "Net-(C84-Pad2)") (pintype "passive") (solder_mask_margin 0.102) (tstamp 17d7ceb8-bb9f-418a-9a10-2dfab2f2a354))
+    (model "${IO_LIB}/TCM1-63AX+--3DModel-STEP-56544.STEP"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
