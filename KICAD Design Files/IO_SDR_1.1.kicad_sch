@@ -19,7 +19,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf" (page "3"))
       )
     )
@@ -36,7 +36,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf" (page "4"))
       )
     )
@@ -53,7 +53,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf" (page "2"))
       )
     )
@@ -70,7 +70,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf" (page "1"))
       )
     )

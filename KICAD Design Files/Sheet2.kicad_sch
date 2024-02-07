@@ -2538,7 +2538,7 @@
     )
     (pin "1" (uuid 1fd3ee55-f803-49a0-8594-0cb46113ece0))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -2570,7 +2570,7 @@
     (pin "1" (uuid 8ba1ecf5-39c2-409b-b56d-19dcbf07cf2c))
     (pin "2" (uuid 334515b1-4a3e-4ec2-859b-7192179b3b8d))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "R27") (unit 1)
         )
@@ -2595,7 +2595,7 @@
     )
     (pin "1" (uuid 989034ae-8121-4381-b91a-f364c8f9c8b0))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -2626,7 +2626,7 @@
     )
     (pin "1" (uuid 8c9b7cea-698f-4fad-9981-8db91c402176))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "#PWR092") (unit 1)
         )
@@ -2652,7 +2652,7 @@
     (pin "1" (uuid 183b5af4-9ebb-4c55-85d5-37d2d85b1ae0))
     (pin "2" (uuid 6462ac46-2ab4-4591-a62e-87eb5f191770))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "CA3") (unit 1)
         )
@@ -2678,7 +2678,7 @@
     (pin "1" (uuid 9e1af9e2-98f2-4d62-82a5-e2ad215dce08))
     (pin "2" (uuid 058828fa-d47a-4983-ae2f-31528b5a1634))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "C46") (unit 1)
         )
@@ -2703,7 +2703,7 @@
     )
     (pin "1" (uuid 3d2c0a42-53fd-4af8-bac0-f5ca8dba2274))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "#PWR097") (unit 1)
         )
@@ -2728,7 +2728,7 @@
     )
     (pin "1" (uuid e0ab73ae-1f83-4c16-82b2-504a165a72da))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -2763,7 +2763,7 @@
     (pin "4" (uuid 4ae6d529-e78e-4c34-bd89-25bcb5667d07))
     (pin "5" (uuid 1807a35b-00d7-4016-9ae4-01d4b5503918))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/26408935-5483-4e64-b037-b34c2a58be86"
           (reference "U?") (unit 1)
         )
@@ -2791,7 +2791,7 @@
     )
     (pin "1" (uuid 41709608-3e52-4902-8098-5f25c02116fa))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -2823,7 +2823,7 @@
     (pin "1" (uuid c5721dd3-857d-4136-a369-1186cba33d1f))
     (pin "2" (uuid 333b799a-d5fc-49d8-ac7b-a6afc025487d))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "C39") (unit 1)
         )
@@ -2896,7 +2896,7 @@
     (pin "9" (uuid cb18b824-c30e-4d93-baf0-17967588a3f9))
     (pin "49" (uuid 744a4b99-1b16-40de-b680-15c3d55ff01f))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "U10") (unit 1)
         )
@@ -2922,7 +2922,7 @@
     (pin "1" (uuid b50dc549-0007-4a77-b88c-f7bba125fb70))
     (pin "2" (uuid 8dbba846-876c-4616-a9c6-d7dad1ebceb6))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "C37") (unit 1)
         )
@@ -2947,7 +2947,7 @@
     )
     (pin "1" (uuid 73951c08-64e3-42b4-ba8c-2d8c33322418))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -2979,7 +2979,7 @@
     (pin "1" (uuid fec21da5-dde7-4869-99fe-999efe56811c))
     (pin "2" (uuid a2e8e228-5b0e-4173-948d-01f87f9e0272))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "CA4") (unit 1)
         )
@@ -3004,7 +3004,7 @@
     )
     (pin "1" (uuid 91acaa42-de1d-49fb-8a31-6c9a3968de0f))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -3035,7 +3035,7 @@
     )
     (pin "1" (uuid 47adbb8f-0b91-4a8a-a8f1-84e800c7f7aa))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "#PWR095") (unit 1)
         )
@@ -3075,7 +3075,7 @@
     (pin "8" (uuid 3900fc6f-e3c9-4848-8dff-ee89a645c838))
     (pin "9" (uuid 080a0321-c92f-4e3d-9e3f-c51f277bef10))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "J7") (unit 1)
         )
@@ -3100,7 +3100,7 @@
     )
     (pin "1" (uuid 9b5be854-7e55-40d1-afb4-d80d41c0bbd3))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "#PWR0118") (unit 1)
         )
@@ -3125,7 +3125,7 @@
     )
     (pin "1" (uuid 9e82f170-381b-4893-9fde-980a73ac1d4b))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -3157,7 +3157,7 @@
     (pin "1" (uuid 163d5b68-d2fd-4351-bd9f-24f4c1bb90a6))
     (pin "2" (uuid 30c10d13-ca60-406f-b0e4-9b5e47b98ba1))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "C49") (unit 1)
         )
@@ -3183,7 +3183,7 @@
     (pin "1" (uuid e6685f01-39e2-42ff-82d9-a3948e158dd5))
     (pin "2" (uuid f7e7d7f1-510a-4481-a5ea-116d6f97e24a))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "C47") (unit 1)
         )
@@ -3209,7 +3209,7 @@
     (pin "1" (uuid 31015ccd-69e8-41fd-979c-b3e14dbb2d81))
     (pin "2" (uuid 0206edfb-1c4e-409f-81fa-934ad7920d65))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "R23") (unit 1)
         )
@@ -3235,7 +3235,7 @@
     (pin "1" (uuid f419113e-fb6c-4a8f-9b48-11b5ba0b28b5))
     (pin "2" (uuid 191d4402-8a50-453e-96b6-234548a1f704))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "R28") (unit 1)
         )
@@ -3260,7 +3260,7 @@
     )
     (pin "1" (uuid 74633511-f10c-4247-a90c-4f380787356c))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -3292,7 +3292,7 @@
     (pin "1" (uuid 4115fc94-b65a-4798-99b6-80c91dbe29f9))
     (pin "2" (uuid 5d5a10df-ffc0-4d8c-95d2-299416a5578a))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "R20") (unit 1)
         )
@@ -3318,7 +3318,7 @@
     (pin "1" (uuid 69316688-e6cc-4a14-a74b-e7fea7ac0f67))
     (pin "2" (uuid 30044154-4c50-4f78-9bc4-0487c829f91d))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "C43") (unit 1)
         )
@@ -3343,7 +3343,7 @@
     )
     (pin "1" (uuid 9d9df0d5-0ba2-4f9b-8ce0-b0a34d461965))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -3374,7 +3374,7 @@
     )
     (pin "1" (uuid d3409bc5-f643-47a4-93bc-b8e8be9acd30))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -3406,7 +3406,7 @@
     (pin "1" (uuid a4e2d36b-2f77-44f8-84a5-4340f4de6622))
     (pin "2" (uuid fb569f6a-a210-4148-a214-df8227df1dda))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "R22") (unit 1)
         )
@@ -3432,7 +3432,7 @@
     (pin "1" (uuid bc9a4bd8-602c-40eb-b50a-c2a5c28becee))
     (pin "2" (uuid 68d8e24b-422f-4ade-b0f4-805403716cf3))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "L9") (unit 1)
         )
@@ -3457,7 +3457,7 @@
     )
     (pin "1" (uuid 96a4d195-bfc0-41ab-b0c0-223171039023))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -3488,7 +3488,7 @@
     )
     (pin "1" (uuid 25043437-1c8b-48d3-a56f-27286431f225))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -3519,7 +3519,7 @@
     )
     (pin "1" (uuid d01b27f1-837c-430d-8fdd-ade9bfc87d5a))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -3551,7 +3551,7 @@
     (pin "1" (uuid bf9291e0-fa3d-4c08-8765-17ce3abfdf3d))
     (pin "2" (uuid 1f709fcd-7b6c-49a8-810e-f3f6ab270b39))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "C45") (unit 1)
         )
@@ -3576,7 +3576,7 @@
     )
     (pin "1" (uuid 5b77d6c1-88ef-408f-bd4f-945fee1d83f6))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -3608,7 +3608,7 @@
     (pin "1" (uuid 3c5d3fe1-d1d9-4151-b104-33844daca9dd))
     (pin "2" (uuid 8f6737df-01b9-43b0-a7d6-10f5f795e908))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "R16") (unit 1)
         )
@@ -3634,7 +3634,7 @@
     (pin "1" (uuid 9401775f-d362-4fc5-b189-c5521ba242c7))
     (pin "2" (uuid 32563685-3e9b-4ca7-a5b5-a73b4441e46e))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "C40") (unit 1)
         )
@@ -3660,7 +3660,7 @@
     (pin "1" (uuid 69312ce8-c85a-469e-b6af-6f3d462d984a))
     (pin "2" (uuid c891c084-fce6-454d-8141-0a08cca448f5))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "R26") (unit 1)
         )
@@ -3686,7 +3686,7 @@
     (pin "1" (uuid 524f6264-6d72-4b85-b001-5b56d50190b1))
     (pin "2" (uuid 855ec3c0-94b8-48fa-a621-6f06e52379a1))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "C36") (unit 1)
         )
@@ -3711,7 +3711,7 @@
     )
     (pin "1" (uuid dcbd1628-ab52-4e3c-a718-af791d3996dd))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -3743,7 +3743,7 @@
     (pin "1" (uuid d3adf9c3-a837-407e-945d-7837b1720782))
     (pin "2" (uuid 11ce4cfe-5126-4d2b-8f7d-5bc1a9b811e4))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "L10") (unit 1)
         )
@@ -3769,7 +3769,7 @@
     (pin "1" (uuid 592bc540-cbb5-43f9-9834-aebee3ef0516))
     (pin "2" (uuid 2a3691f4-a7ac-4081-b4a5-71c4a9f4d627))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "C51") (unit 1)
         )
@@ -3794,7 +3794,7 @@
     )
     (pin "1" (uuid 8dd19d4f-e24a-401f-a7f6-d2aaf8dd1bdd))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -3826,7 +3826,7 @@
     (pin "1" (uuid 9a47f3f9-ea80-4ca0-bb20-949e2897e20c))
     (pin "2" (uuid 0f61a995-6caa-4bbe-bda6-095a39c6dd69))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "R24") (unit 1)
         )
@@ -3852,7 +3852,7 @@
     (pin "1" (uuid dc13915d-9f4d-4813-a7fb-6dfd4db580bc))
     (pin "2" (uuid ec063b0c-4945-4a9d-a833-b0eef3ac4f25))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "R21") (unit 1)
         )
@@ -3878,7 +3878,7 @@
     (pin "1" (uuid 95108086-76e5-4a55-a53b-9dbe3a4da3e0))
     (pin "2" (uuid 5f3ebb90-df6f-4f71-9785-3aa6a67f7510))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "C38") (unit 1)
         )
@@ -3921,7 +3921,7 @@
     (pin "3" (uuid d4a5847d-30c6-4265-ad08-f41312804841))
     (pin "4" (uuid 6c9b23b4-c18f-4b05-b3a7-616f6aa3ac59))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "Y1") (unit 1)
         )
@@ -3946,7 +3946,7 @@
     )
     (pin "1" (uuid 9606496e-21c9-4b1e-8ff2-3968801bffbf))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "#PWR086") (unit 1)
         )
@@ -3972,7 +3972,7 @@
     (pin "1" (uuid 9518ea24-5694-4f24-964b-5fc0084b3231))
     (pin "2" (uuid f4a92923-da6f-4ccf-8d57-ae265949fbb6))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "C48") (unit 1)
         )
@@ -3997,7 +3997,7 @@
     )
     (pin "1" (uuid 02faa74e-e12b-41c5-be27-40b8a1f1bcde))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -4028,7 +4028,7 @@
     )
     (pin "1" (uuid 4a10305e-2489-4222-a447-56de2259be44))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "#PWR0116") (unit 1)
         )
@@ -4053,7 +4053,7 @@
     )
     (pin "1" (uuid adc186e7-df7f-4bed-b57d-034b64bc7079))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -4085,7 +4085,7 @@
     (pin "1" (uuid dac3a261-bb55-4a21-b1f1-bb03e982de98))
     (pin "2" (uuid c2edac8d-a138-445f-994a-7cd43c530ef9))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "R18") (unit 1)
         )
@@ -4110,7 +4110,7 @@
     )
     (pin "1" (uuid d91de45a-e810-4155-91e8-8ce41437eb15))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -4141,7 +4141,7 @@
     )
     (pin "1" (uuid a7532867-0f3c-44b7-b730-64f3643fd63a))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -4173,7 +4173,7 @@
     (pin "1" (uuid 53a6a775-01e6-45ce-a8ba-2b98ac15a669))
     (pin "2" (uuid 547af32a-20c6-4405-90df-862f88aa41c4))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "C44") (unit 1)
         )
@@ -4198,7 +4198,7 @@
     )
     (pin "1" (uuid 8537d0a2-1335-4b1a-9d8d-886a85c21381))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "#PWR091") (unit 1)
         )
@@ -4223,7 +4223,7 @@
     )
     (pin "1" (uuid 1f7e56bf-a799-4bf5-bb43-b88959e9b486))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/b3b43e8b-7f47-4b04-880b-01695a760090"
           (reference "TP?") (unit 1)
         )
@@ -4251,7 +4251,7 @@
     )
     (pin "1" (uuid c8787676-eb7c-45d4-a2b0-5a3afb027989))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "#PWR0113") (unit 1)
         )
@@ -4277,7 +4277,7 @@
     (pin "1" (uuid 5484ec28-28c0-4488-973f-7e8cad187c96))
     (pin "2" (uuid abb8682c-1e0c-472f-a8be-aa7c4dbcf657))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "C50") (unit 1)
         )
@@ -4302,7 +4302,7 @@
     )
     (pin "1" (uuid 97266382-3376-4955-a202-cbce65488be6))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/b3b43e8b-7f47-4b04-880b-01695a760090"
           (reference "TP?") (unit 1)
         )
@@ -4331,7 +4331,7 @@
     (pin "1" (uuid 82761036-db61-4751-ae52-969a8ed17aa3))
     (pin "2" (uuid a4756e4c-e27e-4219-902b-21fae325fc88))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "C41") (unit 1)
         )
@@ -4356,7 +4356,7 @@
     )
     (pin "1" (uuid 35eba8ec-4388-41f8-b23c-bb51b81f066d))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -4387,7 +4387,7 @@
     )
     (pin "1" (uuid a93f9d41-fddf-4287-b2db-e422cd7d2bd4))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -4418,7 +4418,7 @@
     )
     (pin "1" (uuid 2b8536ee-3ed9-436a-b4b7-952138cbb9e9))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -4449,7 +4449,7 @@
     )
     (pin "1" (uuid 47ad9e15-5664-4809-aa23-8f13015ccfe4))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "#PWR0115") (unit 1)
         )
@@ -4475,7 +4475,7 @@
     (pin "1" (uuid 6047945e-de7b-4584-811f-4e1abb2fb2cd))
     (pin "2" (uuid 1806fdaf-f505-46dd-b615-2f23e4b42efc))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "R19") (unit 1)
         )
@@ -4501,7 +4501,7 @@
     (pin "1" (uuid fa65e96b-7ff9-4524-a21d-9be02cd0ea1a))
     (pin "2" (uuid 4f24442b-7aaf-4490-971d-18bc5ce10d4f))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "OR?") (unit 1)
         )
@@ -4532,7 +4532,7 @@
     )
     (pin "1" (uuid b0a8f70b-e8b6-4956-af31-862c63ca4270))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "#PWR0112") (unit 1)
         )
@@ -4558,7 +4558,7 @@
     (pin "1" (uuid 6bbef5a4-5a70-41b2-917b-aa4e63597781))
     (pin "2" (uuid 22c0036a-6055-4ee4-aae1-900a5f9ce2ca))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "C52") (unit 1)
         )
@@ -4584,7 +4584,7 @@
     (pin "1" (uuid 1ba6b949-39b7-489f-b183-50a401d05555))
     (pin "2" (uuid feadc924-51f6-4968-8222-c9ca58a95c3f))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "R25") (unit 1)
         )
@@ -4610,7 +4610,7 @@
     (pin "1" (uuid b373c665-7ae6-49e7-a612-1fb7b4ae6a13))
     (pin "2" (uuid f6e32a26-0129-4e2c-9f28-b060fe918848))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "C42") (unit 1)
         )
@@ -4635,7 +4635,7 @@
     )
     (pin "1" (uuid 59586525-8f35-4719-b200-94a40d2907f8))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "#PWR093") (unit 1)
         )
@@ -4660,7 +4660,7 @@
     )
     (pin "1" (uuid af8daf85-11d0-4998-841b-2641d83c9574))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -4691,7 +4691,7 @@
     )
     (pin "1" (uuid 1660d061-c9e6-4838-9a44-2fa0cad94d24))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -4722,7 +4722,7 @@
     )
     (pin "1" (uuid 91da391c-c5a2-42bf-a251-f27275222a6d))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf"
           (reference "#PWR?") (unit 1)
         )
@@ -4754,7 +4754,7 @@
     (pin "1" (uuid aed6aabf-39db-44d6-8eb7-54006eac515d))
     (pin "2" (uuid b5a08b4b-16fd-4130-9381-75715e2776c1))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "C53") (unit 1)
         )
@@ -4780,7 +4780,7 @@
     (pin "1" (uuid 2a345118-6a4e-4709-b5c6-09c30d19ac7e))
     (pin "2" (uuid e09b716a-76e7-4cc5-8448-d2be9d5d4409))
     (instances
-      (project "[rishivg] PLUTOX_SDR-V1.0"
+      (project "IO_SDR_1.1"
         (path "/38786148-0fd1-46d3-8412-9a7876291ebf/8ac59cf2-de82-424f-b7a5-0f81b1511fd9"
           (reference "R17") (unit 1)
         )
