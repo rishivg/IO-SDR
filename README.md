@@ -7,4 +7,4 @@ IO-SDR is an open-source software-defined FPGA radio hardware platform. Suupport
 - Embedded Linux SoC development
 - GNU Radio blocks
 
-![screenshot](screenshot.png)
+![Render](Images/Render.png)
